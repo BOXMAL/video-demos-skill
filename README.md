@@ -1,6 +1,4 @@
-# video-saas-premium
 
-> Copia de [rayyandev-ux/video-saas-premium](https://github.com/rayyandev-ux/video-saas-premium) (commit `836d15c`), publicada bajo la licencia MIT del autor original, que se conserva en `LICENSE`.
 
 Skill para **Claude Code** y **Codex** que convierte **el link de tu producto + una idea** en un video de lanzamiento con nivel de estudio (estilo Apple / Figma), renderizado en **4K a 60 fps**:
 
